@@ -1,6 +1,6 @@
 # Tufts Vizathon: Disrupting Childhood Obesity
 
-Follow progress at: [sevans09.github.io/Vizathon](http://sevans09.github.io/Vizathon)
+Follow progress at: [sejaldua.com/disrupting-childhood-obesity](http://sejaldua.com/disrupting-childhood-obesity/)
 
 #### To Do
     * Cite sources used from Covid viz (income, population, etc.)
@@ -13,8 +13,10 @@ Follow progress at: [sevans09.github.io/Vizathon](http://sevans09.github.io/Viza
     * Highlight disparities in health outcomes along socio-demographic segments
 
 #### Data
-1. Nutrition, Physical Activity, and Obesity - Youth Risk Behavior Surveillance System 
-    * Data is from the Youth Risk Behavior Surveillance System, YBRSS, on high school age students in the 50 states and DC. The goal of YBRSS is to determine the presence of health behaviors, assess whether these behaviors increase or decrease over time, and the cooccurrence of health behaviors. Includes data on adolescent diet, physical activity, and weight status.
+```
+Nutrition, Physical Activity, and Obesity - Youth Risk Behavior Surveillance System 
+Data is from the Youth Risk Behavior Surveillance System, YBRSS, on high school age students in the 50 states and DC. The goal of YBRSS is to determine the presence of health behaviors, assess whether these behaviors increase or decrease over time, and the cooccurrence of health behaviors. Includes data on adolescent diet, physical activity, and weight status.
+```
 
 
 #### Ideas 
