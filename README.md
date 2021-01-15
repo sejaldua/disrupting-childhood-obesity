@@ -3,13 +3,9 @@
 Follow progress at: [sevans09.github.io/Vizathon](http://sevans09.github.io/Vizathon)
 
 #### To Do
-    * Add data from Dataset 3 to dropdown
-    * Slider does not update bubbles
     * Cite sources used from Covid viz (income, population, etc.)
-    * Fix legend domain - need to hard code min/max and fix percents
     * Fix legend domain - hover over and show corresponding counties
-    * Fix hovering over a bubble or county outlines the corresponding one in bubble or map
-    * Do citations and create video to submit
+    * Fix handleClick bug
 
 #### Goals
     * Interactive web application
@@ -28,11 +24,9 @@ Follow progress at: [sevans09.github.io/Vizathon](http://sevans09.github.io/Viza
       levels, diet, weight, and more (by county)
     * Tracking healthy vs. unhealthy behaviors over several years (using youth risk behavior 
     survey); user could maybe sort by state
-    • Visualizing corr between obesity and other variables (income, eudcation, fast food availability, etc.) accross the country by overlaying different colored maps at 50% opacity so they blend
+    * Visualizing correlation between obesity and other variables (income, education, fast food availability, etc.) accross the country by overlaying different colored maps at 50% opacity so they blend
    
 #### Sources
    * https://www.tutorialsteacher.com/d3js/axes-in-d3
-
-#### Sketches
-![alt text](https://github.com/sevans09/Vizathon/blob/main/sketches/Viz%20Sketch1.jpg)
-![alt text](https://github.com/sevans09/Vizathon/blob/main/sketches/Viz%20Sketch2.jpg)
+   * https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Youth-Risk/vba9-s8jp
+  
